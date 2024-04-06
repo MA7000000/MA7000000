@@ -1,9 +1,7 @@
-### Hi there 👋
 |Cyber criminals|
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 They would be threat actors for an application like medtrack pro as they'd attack tthe application to gain access to the sensitive date of users or aim to collect users login details for important information such as medical history, users bank details, user email addresses or user home address
 |Hacktivists|
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 They could pose a threat to an application such as medtrack pro because they may disagree with the policies of the company bassed on how they store customers information or the applications pharmaceutical practises which would give them the incentive to attack them.
 <!--
 **MA7000000/MA7000000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
